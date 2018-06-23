@@ -3,86 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="1f28770d-9927-4abd-91fd-55cf727c4052" name="Default" comment="Added test for function brackets">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/History.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/index.d.ts" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/.npmignore" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/CODEOWNERS" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/CODE_OF_CONDUCT.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/CONTRIBUTING.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/History.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/ReleaseNotes.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/bower.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/chai.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/karma.conf.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/karma.sauce.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/assertion.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/config.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/core/assertions.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/interface/assert.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/interface/expect.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/interface/should.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addChainableMethod.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addLengthGuard.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addMethod.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addProperty.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/compareByInspect.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/expectTypes.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/flag.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getActual.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getEnumerableProperties.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getMessage.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getOwnEnumerableProperties.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getOwnEnumerablePropertySymbols.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getProperties.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/inspect.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/isNaN.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/isProxyEnabled.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/objDisplay.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/overwriteChainableMethod.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/overwriteMethod.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/overwriteProperty.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/proxify.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/test.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/transferFlags.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/register-assert.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/register-expect.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/register-should.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/sauce.browsers.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/check-error.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/deep-eql.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/get-func-name.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/CHANGELOG.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/pathval.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/index.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/package.json" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/type-detect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/package-lock.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/tests/test.js" afterPath="$PROJECT_DIR$/Algoritms/tests/test.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -99,28 +21,28 @@
       <file leaf-file-name="brackets.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algoritms/brackets.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="493">
-              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+            <state relative-caret-position="374">
+              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="test.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Algoritms/tests/test.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-18">
-              <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+            <state relative-caret-position="357">
+              <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Algoritms/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
               <folding />
             </state>
           </provider>
@@ -167,8 +89,8 @@
         <option value="$PROJECT_DIR$/Algoritms/Brackets.js" />
         <option value="$PROJECT_DIR$/Algoritms/package.json" />
         <option value="$PROJECT_DIR$/Algoritms/brackets.js" />
-        <option value="$PROJECT_DIR$/Algoritms/tests/test.js" />
         <option value="$PROJECT_DIR$/Algoritms/.gitignore" />
+        <option value="$PROJECT_DIR$/Algoritms/tests/test.js" />
       </list>
     </option>
   </component>
@@ -220,6 +142,12 @@
               <item name="Mifort-training" type="b2602c69:ProjectViewProjectNode" />
               <item name="Mifort-training" type="462c0819:PsiDirectoryNode" />
               <item name="Algoritms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Mifort-training" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Mifort-training" type="462c0819:PsiDirectoryNode" />
+              <item name="Algoritms" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -287,14 +215,11 @@
       <workItem from="1529349614569" duration="5423000" />
       <workItem from="1529390696268" duration="3565000" />
       <workItem from="1529752289905" duration="3299000" />
-      <workItem from="1529755637110" duration="4925000" />
+      <workItem from="1529755637110" duration="5621000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Algoritms - 2018.06.23 at 16h 02m 07s.xml">
-      <configuration name="Algoritms" configurationId="mocha-javascript-test-runner" />
-    </history-entry>
     <history-entry file="Algoritms - 2018.06.23 at 16h 04m 08s.xml">
       <configuration name="Algoritms" configurationId="mocha-javascript-test-runner" />
     </history-entry>
@@ -322,12 +247,16 @@
     <history-entry file="Algoritms - 2018.06.23 at 16h 18m 26s.xml">
       <configuration name="Algoritms" configurationId="mocha-javascript-test-runner" />
     </history-entry>
+    <history-entry file="Algoritms - 2018.06.23 at 16h 37m 01s.xml">
+      <configuration name="Algoritms" configurationId="mocha-javascript-test-runner" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42220000" />
+    <option name="totallyTimeSpent" value="42916000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14434524" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -337,7 +266,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4928" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4848" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.8912" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -477,14 +406,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algoritms/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Algoritms/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -493,26 +414,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algoritms/brackets.js">
+    <entry file="file://$PROJECT_DIR$/Algoritms/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="false" selection-start-line="5" selection-start-column="4" selection-end-line="5" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Algoritms/tests/test.js">
+    <entry file="file://$PROJECT_DIR$/Algoritms/brackets.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-18">
-          <caret line="11" column="38" lean-forward="true" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+        <state relative-caret-position="374">
+          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Algoritms/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="17" lean-forward="true" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        <state relative-caret-position="0">
+          <caret line="0" column="6" lean-forward="true" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Algoritms/tests/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="30" column="34" lean-forward="true" selection-start-line="30" selection-start-column="34" selection-end-line="30" selection-end-column="34" />
           <folding />
         </state>
       </provider>
