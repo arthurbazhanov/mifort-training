@@ -1,3 +1,3 @@
 # mifort-training
 
-This repo for training web -skills
+This is  repository for training web - skills
