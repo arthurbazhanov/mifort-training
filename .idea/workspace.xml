@@ -2,14 +2,87 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f28770d-9927-4abd-91fd-55cf727c4052" name="Default" comment="Added test for function brackets">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/Mifort-training.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Algoritms/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/index.d.ts" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/assertion-error/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/.npmignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/CODEOWNERS" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/CODE_OF_CONDUCT.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/CONTRIBUTING.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/History.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/ReleaseNotes.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/bower.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/chai.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/karma.conf.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/karma.sauce.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/assertion.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/config.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/core/assertions.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/interface/assert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/interface/expect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/interface/should.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addChainableMethod.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addLengthGuard.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addMethod.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/addProperty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/compareByInspect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/expectTypes.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/flag.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getActual.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getEnumerableProperties.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getMessage.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getOwnEnumerableProperties.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getOwnEnumerablePropertySymbols.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/getProperties.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/inspect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/isNaN.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/isProxyEnabled.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/objDisplay.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/overwriteChainableMethod.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/overwriteMethod.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/overwriteProperty.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/proxify.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/test.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/lib/chai/utils/transferFlags.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/register-assert.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/register-expect.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/register-should.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/chai/sauce.browsers.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/check-error.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/check-error/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/deep-eql.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/deep-eql/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/get-func-name.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/get-func-name/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/CHANGELOG.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/pathval/pathval.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/package.json" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Algoritms/node_modules/type-detect/type-detect.js" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -214,7 +287,7 @@
       <workItem from="1529349614569" duration="5423000" />
       <workItem from="1529390696268" duration="3565000" />
       <workItem from="1529752289905" duration="3299000" />
-      <workItem from="1529755637110" duration="4623000" />
+      <workItem from="1529755637110" duration="4925000" />
     </task>
     <servers />
   </component>
@@ -251,7 +324,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="41918000" />
+    <option name="totallyTimeSpent" value="42220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
