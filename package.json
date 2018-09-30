@@ -1,0 +1,7 @@
+{
+  "name": "Mifort-training",
+  "version": "0.0.1",
+  "dependencies": {
+    "mongodb": "^2.2.33"
+  }
+}
