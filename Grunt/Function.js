@@ -4,7 +4,7 @@
  * @return {number}
  */
 function Privet() {
-  let a = 6;
+  let a = 3;
   let b = 5;
   let c = 2;
   if(a > b){

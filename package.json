@@ -1,7 +1,9 @@
 {
   "name": "Mifort-training",
   "version": "0.0.1",
-  "dependencies": {
+  "devDependencies": {
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
     "mongodb": "^2.2.33"
   }
 }
